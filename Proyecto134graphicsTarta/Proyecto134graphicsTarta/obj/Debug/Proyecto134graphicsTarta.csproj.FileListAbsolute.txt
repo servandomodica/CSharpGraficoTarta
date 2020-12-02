@@ -1,0 +1,10 @@
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\bin\Debug\Proyecto134graphicsTarta.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\bin\Debug\Proyecto134graphicsTarta.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\bin\Debug\Proyecto134graphicsTarta.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\obj\Debug\Proyecto134graphicsTarta.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\obj\Debug\Proyecto134graphicsTarta.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\obj\Debug\Proyecto134graphicsTarta.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\obj\Debug\Proyecto134graphicsTarta.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\obj\Debug\Proyecto134graphicsTarta.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\obj\Debug\Proyecto134graphicsTarta.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto134graphicsTarta\Proyecto134graphicsTarta\obj\Debug\Proyecto134graphicsTarta.pdb
